@@ -16,7 +16,7 @@ Projeto desenvolvido como exercício prático, para treinas conceitos de React c
 - Styled Components
 - React Router DOM
 - ESLint / Prettier
-- 
+
 ## 📦 Como rodar o projeto
  
 ```bash
